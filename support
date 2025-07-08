@@ -1,1 +1,2 @@
-support/ai.py
+mv ai.py support/ai.py
+mv game.py support/game.py
