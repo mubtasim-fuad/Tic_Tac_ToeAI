@@ -123,9 +123,10 @@ Score Tracking: Integrate persistent score tracking functionality to record wins
 | Student ID   | Name                        |
 |--------------|-----------------------------|
 | 2131200042   | Miwan Sariana Saqib           |
-| 2022122042   | Md. Mubtasim Fuad        |
-| 2122119642   | Md. Naimul Hasan Munna        |
+| 2022122042   | Md. Mubtasim Fuad Arnob       |
 | 2121025642   | Redwan Hossain                |
+| 2122119642   | Md. Naimul Hasan Munna        |
+
 
 **Faculty Supervisor**: Mohammad Shifat-E-Rabbi  
 **Department**: Department of Electrical and Computer Engineering  
