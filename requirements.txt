@@ -1,0 +1,61 @@
+===================================
+          Requirements
+===================================
+
+1. Software and Tools
+-----------------------------------
+- Python 3.x (recommended: Python 3.8 or higher)
+- Code Editor or IDE:
+  - Visual Studio Code
+  - PyCharm
+  - Sublime Text
+- Terminal or Command Line Interface (for running the game)
+
+
+
+2. Python Libraries
+-----------------------------------
+- No external libraries required.
+- Built entirely with Python's standard library (e.g., math, input, print).
+
+
+
+3. File Structure
+-----------------------------------
+The project directory should include the following files:
+
+  /project-folder
+  ├── main.py        # Entry point of the game
+  ├── game.py        # Game logic: board display, player/AI moves
+  ├── ai.py          # AI logic: Minimax, Alpha-Beta, Heuristic
+
+
+
+4. Knowledge Requirements
+-----------------------------------
+To understand and modify the project, familiarity with the following is helpful:
+
+- Python Basics:
+  - Lists and indexing
+  - Functions and recursion
+  - Input/output handling
+
+- Game Development Concepts:
+  - Turn-based logic
+  - Win/draw conditions
+  - Grid representation using lists
+
+- Algorithms and AI:
+  - Minimax Algorithm (recursive game tree search)
+  - Alpha-Beta Pruning (search optimization)
+  - Heuristic Evaluation (scoring board states)
+  - Recursive function calls and backtracking
+
+
+
+5. System Requirements
+-----------------------------------
+- Any operating system with Python support (Windows, macOS, Linux)
+- No additional installations or heavy resource usage
+
+===================================
